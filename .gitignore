@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Flutter / Dart (на будущее, когда появится проект)
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+pubspec.lock
+
+# Firebase
+.firebase/
+firebase-debug.log
+serviceAccount*.json
